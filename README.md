@@ -1,3 +1,3 @@
 # ArshGame
-Game Code 
-This is a game made by arshpreet
+This game can be run on https://editor.p5js.org/ by importing all the relevant files in this project.
+
